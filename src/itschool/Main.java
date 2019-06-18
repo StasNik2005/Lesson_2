@@ -9,6 +9,7 @@ public class Main {
     {
         Scanner str = new Scanner(System.in);
         int n = str.nextInt();
+        
         if (n == 5)
             System.out.println("=");
     }
